@@ -56,13 +56,8 @@ a {
 	font-size: 30px;
 }
 .carousel-caption {
-<<<<<<< HEAD
 	bottom: 100px;
 	text-shadow: 3px 4px black;
-=======
-    bottom: 100px;
-    text-shadow: 3px 4px black;
->>>>>>> ce85850ff23634dcd8f09fbc59ed7e08042e302f
 }
 body {
 	margin-bottom: 60px;
